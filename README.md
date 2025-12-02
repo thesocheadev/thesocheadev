@@ -1,16 +1,17 @@
-## Hi there 👋
+### whoami 👋
+### 🚀 About Me
+- Web Developer
+- Python learner
+- Content Creator
+  
+### 🛠 Tech Stack
+- HTML/CSS/JS/pHp/RactJS/Node
+- Python/C#
+- MySQL/MongoDB
+- Django/FlastAPI
+- Git/GitHub
 
-<!--
-**thesocheadev/thesocheadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Services
+- Facebook/TikTok/IG
+- Canva/CapCut
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
