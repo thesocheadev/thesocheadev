@@ -4,7 +4,7 @@
 - Backend developer
 - Content Creator
 ### 🛠 Tech Stack
-- HTML/CSS/JS/pHp/RactJS/Node
+- HTML/CSS/JS/pHp/Ract/Node
 - Python/C#
 - MySQL/MongoDB
 - Django/FlastAPI
@@ -12,5 +12,5 @@
 ## Services
 - Facebook/TikTok/IG
 - Canva/CapCut
-##  📌 ស្អីក៏ធ្វើ
+📌 ផ្សេងៗស្អីក៏ធ្វើ
 
