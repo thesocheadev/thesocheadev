@@ -1,7 +1,7 @@
 ### whoami👮‍♂️👨‍💻
 ### 🚀 About Me
 - Python Full Stack
-- Backend developer
+- Backend Developer
 - Content Creator
 ### 🛠 Tech Stack
 - HTML/CSS/JS/pHp/Ract/Node
